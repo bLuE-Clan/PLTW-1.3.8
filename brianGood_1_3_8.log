@@ -1,0 +1,7 @@
+# IPython log file
+
+%run "H:\Programming\Python\1 3 8.py"
+# Mon, 27 Nov 2017 11:57:18
+%run "H:\Programming\Python\1 3 8.py"# Mon, 27 Nov 2017 11:57:40
+%cd "H:\Programming\Python"# Mon, 27 Nov 2017 11:57:42
+%logstop
